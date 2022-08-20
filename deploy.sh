@@ -3,4 +3,6 @@
 #echo "Hello world"     = shell scrips
 #python ('Hello World') = python scripts
 
-print "Hello world"
+echo "what is your name"
+read name
+echo "$name have a fun and blessed weekend"
