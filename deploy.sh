@@ -5,4 +5,9 @@
 
 echo "what is your name"
 read name
-echo "$name have a fun and blessed weekend"
+echo "$name where are you  going to this weekend?"
+read place
+echo "$name have fun at $place and take care of yourself always"
+date
+whoami
+
